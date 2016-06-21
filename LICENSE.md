@@ -1,4 +1,4 @@
-Copyright (c) 2016, Steve Ives
+Copyright (c) 2007, Steve Ives
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without

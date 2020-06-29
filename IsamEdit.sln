@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{BBD0F5D1-1CC4-42FD-BA4C-A96779C64378}") = "IsamEdit", "IsamEdit\IsamEdit.synproj", "{A2D6A499-E967-41EA-B2BC-3F74B3C415FD}"
 EndProject
 Project("{BBD0F5D1-1CC4-42FD-BA4C-A96779C64378}") = "RepositoryApi", "RepositoryApi\RepositoryApi.synproj", "{D0A9E4FB-6978-491D-8D8A-05AEBB919686}"
@@ -22,5 +24,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54FF6D37-85B5-494C-B847-E18005470A6B}
 	EndGlobalSection
 EndGlobal
